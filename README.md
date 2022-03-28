@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaloruHub
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Javascript
 
 <!---
 - 💞️ I’m looking to collaborate on ...
