@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaloruHub
+- 👋 Hi, I’m Laloru
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Java and Javascript
 
