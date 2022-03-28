@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZDGHub
+- 👋 Hi, I’m @LaloruHub
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Java
 
