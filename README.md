@@ -1,6 +1,6 @@
 ## console.log("I'm Gonzalo");
 <p>
-Actually, I am studying Web Application Development and doing my internship for Accenture. Contact me through my networks if you have any suggestions to chat for a while!
+Actually, I am studying Web Application Development and doing my internship for Accenture. Contact me through my social media if you have any suggestions to chat for a while!
 </p>
 
 ----------
