@@ -6,6 +6,11 @@
 ## Acerca de mí
 
 Hola! Soy Gonzalo Azaldegi, un desarrollador apasionado por Javascript y Vue3. Me encanta construir cosas y resolver problemas mediante la programación. Algunos de mis intereses incluyen la programacion y el hardware.
+También sé sobre:
+ - PHP
+ - Laravel
+ - HTML / CSS / SCSS
+ - Bootstrap
 
 Si está interesado en colaborar conmigo en algún proyecto o si simplemente quiere conectarse, no dude en enviarme un mensaje en [Twitter](https://twitter.com/g_azaldegi).
 
