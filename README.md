@@ -13,7 +13,7 @@ También sé sobre:
  - HTML / CSS / SCSS
  - Bootstrap
 
-Si está interesado en colaborar conmigo en algún proyecto o si simplemente quiere contactarse conmigo, no dude en enviarme un mensaje en [Twitter](https://twitter.com/g_azaldegi).
+Si está interesado en colaborar conmigo en algún proyecto o si simplemente quiere contactar conmigo, no dude en enviarme un mensaje en [Twitter](https://twitter.com/g_azaldegi).
 
 ## Proyectos destacados
 
