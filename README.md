@@ -1,7 +1,7 @@
 # LaloruHub
 
 [![](https://img.shields.io/github/followers/laloruhub.svg?style=flat-square)](https://github.com/LaloruHub)
-[![](https://img.shields.io/github/last-commit/laloruhub/vue3-personal-shop.svg?style=flat-square)](https://github.com/laloruhub/vue3-personal-shop)
+[![](https://img.shields.io/github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
 
 ## Acerca de mí
 
