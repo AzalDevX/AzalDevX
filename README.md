@@ -29,11 +29,12 @@ Este proyecto utiliza las siguientes tecnologías:
 - Sass
 - Bootstrap
 
-### Bot de Telegram
-Es un comienzo de un pequeño bot de Telegram el cual te devuelve informacion sobre mi.
+### Travelicious
+Pequeña aplicación web sobre viajes para hacer y ya hechos.
 
-[![](https://img.shields.io/github/last-commit/laloruhub/node-bot-telegram.svg?style=flat-square)](https://github.com/laloruhub/node-bot-telegram)
+[![](https://img.shields.io/github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
 
 Este proyecto utiliza las siguientes tecnologías:
-- NodeJS
-- JavaScript
+- Laravel
+- JavaScript + Swal (Sweetalert)
+- SCSS
