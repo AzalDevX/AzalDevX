@@ -12,6 +12,7 @@ I also have knowledge in:
 - Laravel
 - HTML / CSS / SCSS
 - Bootstrap
+  
 If you're interested in collaborating on a project with me or simply want to get in touch, feel free to send me a message on [Twitter](https://twitter.com/g_azaldegi).
 
 ## Featured Projects
