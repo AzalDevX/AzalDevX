@@ -17,6 +17,7 @@ Here are some of my most recent and notable projects on GitHub:
 
 ### Vue3 Shopping Cart Store
 This is a store where you can add items to the cart or even like items to save them for future purchase.
+
 [![](https://img.shields.io/github/last-commit/laloruhub/vue3-personal-shop.svg?style=flat-square)](https://github.com/laloruhub/vue3-personal-shop)
 
 This project uses the following technologies:
@@ -26,6 +27,7 @@ This project uses the following technologies:
 
 ### Travelicious
 A small web application about travel plans to make and those already done.
+
 [![](https://img.shields.io/github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
 
 This project uses the following technologies:
