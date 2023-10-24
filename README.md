@@ -1,5 +1,7 @@
 # LaloruHub
+
 [![](https://img.shields.io/github/followers/laloruhub.svg?style=flat-square)](https://github.com/LaloruHub)
+
 [![](https://img.shields.io/github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
 
 ## About Me
