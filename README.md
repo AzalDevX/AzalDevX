@@ -3,38 +3,38 @@
 [![](https://img.shields.io/github/followers/laloruhub.svg?style=flat-square)](https://github.com/LaloruHub)
 [![](https://img.shields.io/github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
 
-## Acerca de mí
+## About Me
 
-Hola! Soy Gonzalo Azaldegi, un desarrollador apasionado por Javascript y Vue3. Me encanta construir cosas y resolver problemas mediante la programación. Algunos de mis intereses incluyen la programacion y el hardware.
+Hello! I'm Gonzalo Azaldegi, a passionate developer with a love for Javascript and Vue3. I enjoy building things and solving problems through programming. Some of my interests include programming and hardware.
 
-También sé sobre:
- - PHP
- - Laravel
- - HTML / CSS / SCSS
- - Bootstrap
+I also have knowledge in:
+- PHP
+- Laravel
+- HTML / CSS / SCSS
+- Bootstrap
 
-Si está interesado en colaborar conmigo en algún proyecto o si simplemente quiere contactar conmigo, no dude en enviarme un mensaje en [Twitter](https://twitter.com/g_azaldegi).
+If you're interested in collaborating on a project with me or simply want to get in touch, feel free to send me a message on [Twitter](https://twitter.com/g_azaldegi).
 
-## Proyectos destacados
+## Featured Projects
 
-Aquí hay algunos de mis proyectos más recientes y destacados en GitHub: 
+Here are some of my most recent and notable projects on GitHub:
 
-### Tienda con carrito hecha con Vue3
-Esta es una tienda en la cual puedes añadir objetos al carrito o incluso dare Like para guardartelo para comprarlo mas adelante.
+### Vue3 Shopping Cart Store
+This is a store where you can add items to the cart or even like items to save them for future purchase.
 
 [![](https://img.shields.io/github/last-commit/laloruhub/vue3-personal-shop.svg?style=flat-square)](https://github.com/laloruhub/vue3-personal-shop)
 
-Este proyecto utiliza las siguientes tecnologías:
+This project uses the following technologies:
 - Vue3
 - Sass
 - Bootstrap
 
 ### Travelicious
-Pequeña aplicación web sobre viajes para hacer y ya hechos.
+A small web application about travel plans to make and those already done.
 
-[![](https://img.shields.io/github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
+[![](https://img.shields.io.github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
 
-Este proyecto utiliza las siguientes tecnologías:
+This project uses the following technologies:
 - Laravel
 - JavaScript + Swal (Sweetalert)
 - SCSS
