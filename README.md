@@ -32,7 +32,7 @@ This project uses the following technologies:
 ### Travelicious
 A small web application about travel plans to make and those already done.
 
-[![](https://img.shields.io.github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
+[![](https://img.shields.io/github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
 
 This project uses the following technologies:
 - Laravel
