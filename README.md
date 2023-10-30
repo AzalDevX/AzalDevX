@@ -18,15 +18,13 @@ If you're interested in collaborating on a project with me or simply want to get
 ## Featured Projects
 Here are some of my most recent and notable projects on GitHub:
 
-### Vue3 Shopping Cart Store
+### Orbit-of-imagination
 This is a store where you can add items to the cart or even like items to save them for future purchase.
 
-[![](https://img.shields.io/github/last-commit/AzalDevX/vue3-personal-shop.svg?style=flat-square)](https://github.com/AzalDevX/vue3-personal-shop)
+[![](https://img.shields.io/github/last-commit/AzalDevX/orbit-of-imagination.svg?style=flat-square)](https://github.com/AzalDevX/orbit-of-imagination)
 
 This project uses the following technologies:
 - Vue3
-- Sass
-- Bootstrap
 
 ### Travelicious
 A small web application about travel plans to make and those already done.
