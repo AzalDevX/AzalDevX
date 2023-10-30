@@ -19,7 +19,7 @@ If you're interested in collaborating on a project with me or simply want to get
 Here are some of my most recent and notable projects on GitHub:
 
 ### Orbit-of-imagination
-This is a open source portfolio template designed to be customizable and user-friendly.
+This is an open source portfolio template designed to be customizable and user-friendly.
 
 [![](https://img.shields.io/github/last-commit/AzalDevX/orbit-of-imagination.svg?style=flat-square)](https://github.com/AzalDevX/orbit-of-imagination)
 
