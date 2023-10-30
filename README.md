@@ -1,4 +1,4 @@
-# LaloruHub
+# AzalDevX
 
 [![](https://img.shields.io/github/followers/laloruhub.svg?style=flat-square)](https://github.com/LaloruHub)
 
