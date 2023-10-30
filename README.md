@@ -1,8 +1,8 @@
 # AzalDevX
 
-[![](https://img.shields.io/github/followers/laloruhub.svg?style=flat-square)](https://github.com/LaloruHub)
+[![](https://img.shields.io/github/followers/AzalDevX.svg?style=flat-square)](https://github.com/AzalDevX)
 
-[![](https://img.shields.io/github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
+[![](https://img.shields.io/github/last-commit/AzalDevX/travelicious.svg?style=flat-square)](https://github.com/AzalDevX/travelicious)
 
 ## About Me
 Hello! I'm Gonzalo Azaldegi, a passionate developer with a love for Javascript and Vue3. I enjoy building things and solving problems through programming. Some of my interests include programming and hardware.
@@ -21,7 +21,7 @@ Here are some of my most recent and notable projects on GitHub:
 ### Vue3 Shopping Cart Store
 This is a store where you can add items to the cart or even like items to save them for future purchase.
 
-[![](https://img.shields.io/github/last-commit/laloruhub/vue3-personal-shop.svg?style=flat-square)](https://github.com/laloruhub/vue3-personal-shop)
+[![](https://img.shields.io/github/last-commit/AzalDevX/vue3-personal-shop.svg?style=flat-square)](https://github.com/AzalDevX/vue3-personal-shop)
 
 This project uses the following technologies:
 - Vue3
@@ -31,7 +31,7 @@ This project uses the following technologies:
 ### Travelicious
 A small web application about travel plans to make and those already done.
 
-[![](https://img.shields.io/github/last-commit/laloruhub/travelicious.svg?style=flat-square)](https://github.com/laloruhub/travelicious)
+[![](https://img.shields.io/github/last-commit/AzalDevX/travelicious.svg?style=flat-square)](https://github.com/AzalDevX/travelicious)
 
 This project uses the following technologies:
 - Laravel
