@@ -1,6 +1,6 @@
 # AzalDevX
 
-[![](https://img.shields.io/github/followers/AzalDevX.svg?style=flat-square)](https://github.com/AzalDevX)
+[![GitHub Followers](https://img.shields.io/github/followers/AzalDevX.svg?style=social)](https://github.com/AzalDevX)
 
 [![](https://img.shields.io/github/last-commit/AzalDevX/travelicious.svg?style=flat-square)](https://github.com/AzalDevX/travelicious)
 
