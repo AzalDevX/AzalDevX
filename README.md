@@ -1,4 +1,5 @@
-# AzalDevX
+# Hi! I'm AzalDevX
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gonzalo+Azaldegi+Ruiz..&hearts;++;Self-taught+Front-End+Developer,;Kotlin+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 
 [![GitHub Followers](https://img.shields.io/github/followers/AzalDevX.svg?style=social)](https://github.com/AzalDevX)
 
@@ -35,3 +36,13 @@ This project uses the following technologies:
 - Laravel
 - JavaScript + Swal (Sweetalert)
 - SCSS
+
+
+  ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AzalDevX">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AzalDevX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzalDevX&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
