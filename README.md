@@ -1,44 +1,52 @@
-# Hi! I'm AzalDevX
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gonzalo+Azaldegi+Ruiz..&hearts;++;Self-taught+Front-End+Developer,;Kotlin+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+# Hello, I'm AzalDevX 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/AzalDevX.svg?style=social)](https://github.com/AzalDevX)
-
-[![](https://img.shields.io/github/last-commit/AzalDevX/travelicious.svg?style=flat-square)](https://github.com/AzalDevX/travelicious)
+Welcome to my GitHub profile! I'm an enthusiastic programmer with a passion for software development and creating applications.
 
 ## About Me
-Hello! I'm Gonzalo Azaldegi, a passionate developer with a love for Javascript and Vue3. I enjoy building things and solving problems through programming. Some of my interests include programming and hardware.
 
-I also have knowledge in:
-- PHP
-- Laravel
-- HTML / CSS / SCSS
-- Bootstrap
-  
-If you're interested in collaborating on a project with me or simply want to get in touch, feel free to send me a message on [Twitter](https://twitter.com/g_azaldegi).
+- 💻 Developer with experience in various areas of software development.
+- 📱 Specialized in mobile application development.
+
+## My Skills
+
+- 💼 **Web Development**: HTML, CSS, JavaScript, Vue.js.
+- 📱 **Mobile Development**: Android (Java, Kotlin), React Native.
+- 🪙 **Databases**: MySQL, Firebase.
+- 🛠️ **Tools**: Git, Visual Studio Code, Android Studio, IntelliJ.
 
 ## Featured Projects
-Here are some of my most recent and notable projects on GitHub:
 
-### Orbit-of-imagination
-This is an open source portfolio template designed to be customizable and user-friendly.
+1. 🌐 **[Orbit of Imagination](https://github.com/AzalDevX/orbit-of-imagination)**: "Orbit of Imagination" - a showcase of my creative endeavors and visual projects.
+2. 🤖 **[BoTX](https://github.com/AzalDevX/botx-discord-app)**: Discord assistant in Python. Moderation, information, entertainment and customization.
 
-[![](https://img.shields.io/github/last-commit/AzalDevX/orbit-of-imagination.svg?style=flat-square)](https://github.com/AzalDevX/orbit-of-imagination)
+You can explore more of my projects on my [GitHub profile](https://github.com/AzalDevX) or visit my [personal website](https://azaldev.com) for additional information about my work.
 
-This project uses the following technologies:
-- Vue3
+## Contact
 
-### Travelicious
-A small web application about travel plans to make and those already done.
+- 📧 **Email**: me@azaldev.com
+- 🌐 **Website**: [azaldev.com](https://azaldev.com)
 
-[![](https://img.shields.io/github/last-commit/AzalDevX/travelicious.svg?style=flat-square)](https://github.com/AzalDevX/travelicious)
+Feel free to reach out if you have any questions, suggestions, or are interested in collaborating on any of my projects.
 
-This project uses the following technologies:
-- Laravel
-- JavaScript + Swal (Sweetalert)
-- SCSS
+## Professional Work
 
+I am currently employed at Accenture as a System Developer, where I am responsible for designing, developing, and maintaining various software systems.
 
-  ### ⚙️ &nbsp;GitHub Analytics
+If you're interested in discussing professional opportunities or have any inquiries related to my current role, please feel free to reach out to me.
+
+## Working Area
+
+I'm also working on personal and open-source projects in my free time. If you'd like to collaborate on any of my projects or have ideas for improvements, don't hesitate to make pull requests. I welcome contributions from fellow developers.
+
+## Acknowledgments
+
+Thank you for visiting my GitHub profile! I hope you find my projects and contributions interesting. I'm always eager to learn and grow as a developer, so any feedback or suggestions are appreciated.
+
+I'm passionate about open-source collaboration, and I welcome contributions from fellow developers. Don't hesitate to make pull requests if you have ideas for improvements or want to contribute to any of my projects. Together, we can create something exceptional.
+
+Happy coding! 🚀
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AzalDevX">
