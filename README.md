@@ -46,7 +46,7 @@ I'm passionate about open-source collaboration, and I welcome contributions from
 
 Happy coding! 🚀
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AzalDevX">
