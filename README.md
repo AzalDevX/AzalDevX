@@ -38,7 +38,7 @@ If you're interested in discussing professional opportunities or have any inquir
 
 I'm also working on personal and open-source projects in my free time. If you'd like to collaborate on any of my projects or have ideas for improvements, don't hesitate to make pull requests. I welcome contributions from fellow developers.
 
-## 🙏 Acknowledgments
+## 🙏 Recognition
 
 Thank you for visiting my GitHub profile! I hope you find my projects and contributions interesting. I'm always eager to learn and grow as a developer, so any feedback or suggestions are appreciated.
 
