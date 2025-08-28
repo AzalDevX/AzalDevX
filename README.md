@@ -60,7 +60,7 @@ Soy un desarrollador apasionado por la tecnología y la creación de aplicacione
 
 📧 **Email**: [me@azaldev.com](mailto:me@azaldev.com)
 
-🌐 **Portfolio**: [azaldev.com](https:lalo.lol/me)
+🌐 **Portfolio**: [azaldev.com](https://lalo.lol/me)
 
 🐦 **Twitter**: [@g.azaldegi](https://lalo.lol/x)
 
