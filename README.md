@@ -13,7 +13,7 @@ Soy un desarrollador apasionado por la tecnología y la creación de aplicacione
 - 🛠️ **Minimalista** en el diseño y el desarrollo de software.
 - 🌍 Actualmente trabajando como **Freelancer**.
 - 🖥️ Creando experiencias digitales en **Astro + TailwindCSS**.
-- 🌐 Fundador de **TuNuevaWeb.es**, donde ofrezco sitios web modernos.
+- 🌐 Fundador de **web.tunuevosoftware.com**, donde ofrezco sitios web modernos.
 
 ---
 
@@ -32,11 +32,11 @@ Soy un desarrollador apasionado por la tecnología y la creación de aplicacione
 
 🎬 **[YouTubeAZ](https://youtubeaz.com)** → Un descargador de videos de YouTube minimalista y eficiente. ⚠️[WIP]
 
-🌍 **[TuNuevaWeb](https://tunuevaweb.es)** → Webs modernas y accesibles.
+🌍 **[TuNuevaWeb](https://web.tunuevosoftware.com)** → Webs modernas y accesibles.
 
 🛠 **[Astro Template](https://github.com/AzalDevX/astro-template)** → Mi plantilla optimizada en Astro + TailwindCSS.
 
-🔍 **[Bite & Smash](https://bite-and-smash.tunuevaweb.es)** → Página web para la hamburguesería Bite & Smash.
+🔍 **[Bite & Smash](https://bite-and-smash.tunuevosoftware.com)** → Página web para la hamburguesería Bite & Smash.
 
 ---
 
